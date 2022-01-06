@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+    padding-left: 20px;
+}
+.see{
+    border-left: 5px solid red;
+}
+.color{
+    color: rgb(204, 93, 19);
+}
+.flexible{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.half img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.scroll{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+h2{
+    font-size: 50px;
+    padding-left: 700px;
+}
+.year{
+    color: orange;
+}
+.ami{
+    text-align: center;
+}
+.tumi{
+    color: orange;
+}
+.flexible h3{
+    font-size: 25px;
+}
+.display{
+    display: flex;
+}
+.illus{
+    box-shadow: 10px 10px 20px gray;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    background-color: powderblue;
+}
+.illus2{
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 3%;
+    border-radius: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    background-color: rgb(237, 243, 235);
+}
+.illus3{
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 3%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    background-color: rgb(229, 217, 233);
+}
+.display img{
+    width: 50%;
+}
+.picture{
+    display: flex;
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+}
+.picture img{
+    width: 500px;
+    margin-top: 20%;
+    margin-left: 60%;
+}
+.letter{
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.re{
+    font-size: 40px;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+}
+.global{
+    display: flex;
+    
+    
+}
+.alter{
+    width: 900px;
+    height: 500px;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+.alter img{
+    width: 100%;
+    
+}
+.community{
+    padding: 30px;
+    margin-top: 6%;
+    margin-left: 8%;
+    margin-right: 5%;
+    width: 50%;
+}
+.chobi{
+    width: 500px;
+    height: 900px;
+    margin-left: 20%;
+    margin-top: 5%;
+}
