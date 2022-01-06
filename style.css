@@ -1,13 +1,15 @@
 body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Roboto Slab', serif;
+margin: 0;
+padding: 0;
 }
 h1{
     font-size: 50px;
     padding-left: 20px;
 }
 .see{
-    border-left: 5px solid red;
+    border-left: 5px solid rgb(185, 15, 15);
 }
 .color{
     color: rgb(204, 93, 19);
@@ -116,25 +118,67 @@ h2{
     
 }
 .alter{
-    width: 900px;
-    height: 500px;
     margin-right: 10%;
     margin-top: 10%;
 }
 .alter img{
-    width: 100%;
+    width: 50%;
+    margin-left: 15%;
+    width: 400px;
     
 }
 .community{
     padding: 30px;
     margin-top: 6%;
-    margin-left: 8%;
+    margin-left: 14%;
     margin-right: 5%;
     width: 50%;
 }
-.chobi{
-    width: 500px;
-    height: 900px;
-    margin-left: 20%;
-    margin-top: 5%;
+.heading{
+    text-align: center;
 }
+.corona{
+    color: orange;
+}
+.double{
+    display: flex;
+    
+}
+.double img{
+    width: 500px;
+    margin-left: 5%;
+    
+}
+.inrare{
+    padding: 20px 20px;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+.inrare h3{
+    font-size: 30px;
+}
+.newfont{
+    font-family: 'Great Vibes', cursive;
+font-family: 'Love Light', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    padding-bottom: 5px;
+    
+    
+}
+.newfont{
+    color: white;
+    
+}
+.red{
+    color: rgb(189, 58, 58);
+}
+.off{
+    color: rgb(123, 134, 123);
+}
+
